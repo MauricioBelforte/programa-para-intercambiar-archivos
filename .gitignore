@@ -1,0 +1,42 @@
+# Archivos de usuario y entorno Visual Studio
+*.suo
+*.user
+*.cache
+*.dtbcache.*
+*.dbmdl
+*.log
+*.vspscc
+*.vssscc
+*.pdb
+*.vsp
+*.psess
+
+# Carpeta oculta del entorno de Visual Studio
+.vs/
+
+# Archivos generados por compilación
+bin/
+obj/
+
+# Archivos de solución temporales
+*.sln.docstates
+
+# Archivos de configuración específicos del depurador
+launchSettings.json
+
+# Archivos del sistema operativo
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Archivos de diseño y pruebas si no querés compartirlos
+TestResult.xml
+*.TestResult
+*.trx
+
+# Backup o archivos guardados por programas externos
+*.bak
+*.tmp
+
+# Archivos de configuración local
+*.local
