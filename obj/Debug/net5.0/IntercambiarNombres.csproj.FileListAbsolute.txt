@@ -14,3 +14,19 @@ D:\CarpetasPersonales\Escritorio\TRABAJOS\Programa para intercambiar nombres\Int
 D:\CarpetasPersonales\Escritorio\TRABAJOS\Programa para intercambiar nombres\IntercambiarNombres\obj\Debug\net5.0\ref\IntercambiarNombres.dll
 D:\CarpetasPersonales\Escritorio\TRABAJOS\Programa para intercambiar nombres\IntercambiarNombres\obj\Debug\net5.0\IntercambiarNombres.pdb
 D:\CarpetasPersonales\Escritorio\TRABAJOS\Programa para intercambiar nombres\IntercambiarNombres\obj\Debug\net5.0\IntercambiarNombres.genruntimeconfig.cache
+D:\CarpetasPersonales\Escritorio\PORTFOLIO\Proyectos para GitHub\Programa para intercambiar nombres\IntercambiarNombres\bin\Debug\net5.0\IntercambiarNombres.exe
+D:\CarpetasPersonales\Escritorio\PORTFOLIO\Proyectos para GitHub\Programa para intercambiar nombres\IntercambiarNombres\bin\Debug\net5.0\IntercambiarNombres.deps.json
+D:\CarpetasPersonales\Escritorio\PORTFOLIO\Proyectos para GitHub\Programa para intercambiar nombres\IntercambiarNombres\bin\Debug\net5.0\IntercambiarNombres.runtimeconfig.json
+D:\CarpetasPersonales\Escritorio\PORTFOLIO\Proyectos para GitHub\Programa para intercambiar nombres\IntercambiarNombres\bin\Debug\net5.0\IntercambiarNombres.runtimeconfig.dev.json
+D:\CarpetasPersonales\Escritorio\PORTFOLIO\Proyectos para GitHub\Programa para intercambiar nombres\IntercambiarNombres\bin\Debug\net5.0\IntercambiarNombres.dll
+D:\CarpetasPersonales\Escritorio\PORTFOLIO\Proyectos para GitHub\Programa para intercambiar nombres\IntercambiarNombres\bin\Debug\net5.0\ref\IntercambiarNombres.dll
+D:\CarpetasPersonales\Escritorio\PORTFOLIO\Proyectos para GitHub\Programa para intercambiar nombres\IntercambiarNombres\bin\Debug\net5.0\IntercambiarNombres.pdb
+D:\CarpetasPersonales\Escritorio\PORTFOLIO\Proyectos para GitHub\Programa para intercambiar nombres\IntercambiarNombres\obj\Debug\net5.0\IntercambiarNombres.csproj.AssemblyReference.cache
+D:\CarpetasPersonales\Escritorio\PORTFOLIO\Proyectos para GitHub\Programa para intercambiar nombres\IntercambiarNombres\obj\Debug\net5.0\IntercambiarNombres.GeneratedMSBuildEditorConfig.editorconfig
+D:\CarpetasPersonales\Escritorio\PORTFOLIO\Proyectos para GitHub\Programa para intercambiar nombres\IntercambiarNombres\obj\Debug\net5.0\IntercambiarNombres.AssemblyInfoInputs.cache
+D:\CarpetasPersonales\Escritorio\PORTFOLIO\Proyectos para GitHub\Programa para intercambiar nombres\IntercambiarNombres\obj\Debug\net5.0\IntercambiarNombres.AssemblyInfo.cs
+D:\CarpetasPersonales\Escritorio\PORTFOLIO\Proyectos para GitHub\Programa para intercambiar nombres\IntercambiarNombres\obj\Debug\net5.0\IntercambiarNombres.csproj.CoreCompileInputs.cache
+D:\CarpetasPersonales\Escritorio\PORTFOLIO\Proyectos para GitHub\Programa para intercambiar nombres\IntercambiarNombres\obj\Debug\net5.0\IntercambiarNombres.dll
+D:\CarpetasPersonales\Escritorio\PORTFOLIO\Proyectos para GitHub\Programa para intercambiar nombres\IntercambiarNombres\obj\Debug\net5.0\ref\IntercambiarNombres.dll
+D:\CarpetasPersonales\Escritorio\PORTFOLIO\Proyectos para GitHub\Programa para intercambiar nombres\IntercambiarNombres\obj\Debug\net5.0\IntercambiarNombres.pdb
+D:\CarpetasPersonales\Escritorio\PORTFOLIO\Proyectos para GitHub\Programa para intercambiar nombres\IntercambiarNombres\obj\Debug\net5.0\IntercambiarNombres.genruntimeconfig.cache

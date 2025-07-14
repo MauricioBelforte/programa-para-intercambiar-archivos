@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CarpetasPersonales\\Escritorio\\TRABAJOS\\Programa para intercambiar nombres\\IntercambiarNombres\\IntercambiarNombres.csproj",
+      "projectUniqueName": "D:\\CarpetasPersonales\\Escritorio\\PORTFOLIO\\Proyectos para GitHub\\Programa para intercambiar nombres\\IntercambiarNombres\\IntercambiarNombres.csproj",
       "projectName": "IntercambiarNombres",
-      "projectPath": "D:\\CarpetasPersonales\\Escritorio\\TRABAJOS\\Programa para intercambiar nombres\\IntercambiarNombres\\IntercambiarNombres.csproj",
+      "projectPath": "D:\\CarpetasPersonales\\Escritorio\\PORTFOLIO\\Proyectos para GitHub\\Programa para intercambiar nombres\\IntercambiarNombres\\IntercambiarNombres.csproj",
       "packagesPath": "C:\\Users\\Maury10Home\\.nuget\\packages\\",
-      "outputPath": "D:\\CarpetasPersonales\\Escritorio\\TRABAJOS\\Programa para intercambiar nombres\\IntercambiarNombres\\obj\\",
+      "outputPath": "D:\\CarpetasPersonales\\Escritorio\\PORTFOLIO\\Proyectos para GitHub\\Programa para intercambiar nombres\\IntercambiarNombres\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Maury10Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
